@@ -1,2 +1,55 @@
+- user registration
 - user login
+- set name
+- change name
+- set id
+- change id
+- change phone number
+- delete account
+- set avatar
+- change avatar (profile photo)
+- remove avatar
+- set bio
+- change bio
+- remove bio
+- add a contact
+- remove a contact
+- block a person
+- unblock a person
+- set last seen
+- change last seen
 
+- create group
+- set group info
+- change group info
+- set group photo
+- change group photo
+- remove group photo
+- change group type (private/public)
+- join to group
+- add member to group
+- remove a member from group
+- promote a member (based on privilages)
+- demote a member (based on privilages)
+- leave a group
+- create group link (based on privilages and group type)
+- mention a member
+
+- send message
+- receive message
+- edit message
+- delete message
+- forward message
+- reply message
+
+- push notification
+- storage settings
+- log
+- report a user
+- mute a user
+- mute a group
+- pin
+- voice call
+- video call
+- authentication
+- secure messaging
